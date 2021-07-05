@@ -1,3 +1,5 @@
+This is an paint application created using kivy module in python like the ms paint app by microsoft.
+
 Here are the general instructions to use this app:
 1) Circle - Circle is drawn after you specify two points, i.e. center and any one point on its peripheri.
 2) Rectangle - Similarly, rectangle requires two points which are opposite corners of the rectangle.
